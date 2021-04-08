@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Tai! https://taidn.site</h1>
-<h3 align="center">Interested in explainable visualizations, languages, and AI applications for social good</h3>
+<h3 align="center">Interested in visualizations, sports, languages, and AI applications for social good</h3>
 
 🤝 I’m looking to collaborate with peers on **projects in education and climate change**
 
