@@ -7,7 +7,7 @@
 
 ⚡ Born and raised Vietnamese; learned most of my English through American Idol and the WWE.
 
-### Blogs posts
+<!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
