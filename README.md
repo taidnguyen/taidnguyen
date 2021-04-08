@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Tai!</h1>
 <h3 align="center">Interested in explainable visualizations, languages, and AI applications for social good</h3>
 
-- 🤝 I’m looking to collaborate with peers on **projects in education and climate change**
+🤝 I’m looking to collaborate with peers on **projects in education and climate change**
 
-- 📫 Feel free to reach out at **tainguyen7597(at)gmail(dot)com**
+📫 Feel free to reach out at **tainguyen7597(at)gmail(dot)com**
 
-- ⚡ **Born and raised Vietnamese - I learned most of my English through American Idol and the WWE**
+⚡ **Born and raised Vietnamese - I learned most of my English through American Idol and the WWE**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
