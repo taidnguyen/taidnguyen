@@ -1,13 +1,11 @@
 <h1 align="center">Hi there, I'm Tai!</h1>
-<h3 align="center">Interested in explainable machine learning, visualizations, AI applications for social good</h3>
+<h3 align="center">Interested in explainable visualizations, languages, and AI applications for social good</h3>
 
-- 🤝 I’m looking to collaborate with peers on **projects in climate change and healthcare**
-
-- 👨‍💻 All of my projects are available at [taidn.site](taidn.site)
+- 🤝 I’m looking to collaborate with peers on **projects in education and climate change**
 
 - 📫 Feel free to reach out at **tainguyen7597(at)gmail(dot)com**
 
-- ⚡ Fun fact: **Vietnamese - I learned most of my English through American Idol and the WWE**
+- ⚡ **Born and raised Vietnamese - I learned most of my English through American Idol and the WWE**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
