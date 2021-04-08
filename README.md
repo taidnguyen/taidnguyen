@@ -16,7 +16,6 @@
 <a href="https://twitter.com/taidn97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="taidn97" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/taidnguyen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="taidnguyen" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tainguyen7597" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="tainguyen7597" height="30" width="40" /></a>
-<a href="/https://taidn.site/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://taidn.site/feed.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
