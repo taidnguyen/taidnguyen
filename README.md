@@ -3,9 +3,9 @@
 
 🤝 I work with mainframe data at IBM Systems and volunteer with [STEAM for Vietnam](https://www.steamforvietnam.org/) on the weekend.
 
-📫 Feel free to reach out to me at **tainguyen7597(at)gmail(dot)com**
+📫 Feel free to reach out to me at **tainguyen7597(at)gmail(dot)com**.
 
-⚡ **Born and raised Vietnamese; learned most of my English through American Idol and the WWE**
+⚡ Born and raised Vietnamese; learned most of my English through American Idol and the WWE.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
