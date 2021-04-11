@@ -5,8 +5,6 @@
 
 📫 Feel free to reach out to me at **tainguyen7597(at)gmail(dot)com**.
 
-⚡ Born and raised Vietnamese; learned most of my English through American Idol and the WWE.
-
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
