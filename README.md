@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Tai! https://taidn.site</h1>
-<h3 align="center">Interested in visualizations, sports, languages, and AI applications for social good</h3>
+<h3 align="center">My interests lie in data visualizations, sports, languages/NLP, and AI applications for social good</h3>
 
-🤝 I work with mainframe data at IBM and volunteer with [STEAM for Vietnam](https://www.steamforvietnam.org/) on the weekends
+🤝 I work with mainframe data at IBM and volunteer with [STEAM for Vietnam](https://www.steamforvietnam.org/) on the weekends.
 
 📫 Feel free to reach out to me at **tainguyen7597(at)gmail(dot)com**.
 
