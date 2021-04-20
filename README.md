@@ -4,6 +4,7 @@
       <img src="https://visitor-badge.glitch.me/badge?page_id=taidnguyen.README.md" />
    </a>
 </p>
+[![Sparkline](https://stars.medv.io/taidnguyen/README.md)](https://stars.medv.io/taidnguyen/README.md)
 <h3 align="center">My interests lie in data visualizations, sports, NLP, and AI applications for social good</h3>
 
 🤝 I work with mainframe data at IBM and volunteer with [STEAM for Vietnam](https://www.steamforvietnam.org/) on the weekends.
