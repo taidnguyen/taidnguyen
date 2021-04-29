@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Tai! https://taidn.site/</h1>
+<h1 align="center">Hi there, I'm Tai!</h1>
 <p align="center">
   <a href="#">
       <img src="https://visitor-badge.glitch.me/badge?page_id=taidnguyen.README.md" />
