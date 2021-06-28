@@ -6,7 +6,7 @@
 </p>
 <h3 align="center">My interests lie in data visualizations, sports, NLP, and using AI to advance social goods</h3>
 
-🤝 In my free time, I volunteer with [STEAM for Vietnam](https://www.steamforvietnam.org/) to bring free STEAM education to Vietnamese children, working on improving analytics process, data pipeline, and data quality.
+🤝 In my free time, I volunteer with [STEAM for Vietnam](https://www.steamforvietnam.org/) to bring free STEAM education to Vietnamese children.
 
 📫 Feel free to reach out to me at **tainguyen7597(at)gmail(dot)com**.
 
