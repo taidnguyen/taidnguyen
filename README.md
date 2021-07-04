@@ -9,8 +9,6 @@
 
 🤝 In my free time, I volunteer with [STEAM for Vietnam](https://www.steamforvietnam.org/) to bring free, high quality STEAM education to Vietnamese children.
 
-📫 Feel free to reach out to me at **tainguyen7597(at)gmail(dot)com**.
-
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
