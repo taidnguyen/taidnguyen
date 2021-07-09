@@ -4,7 +4,7 @@
 <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=taidnguyen.README.md" /></a>
 </p> -->
 <br></br>
-💡 My interests lie in data visualizations, sports, NLP, and using AI to advance social goods.
+💡 My interests lie in machine learning, data visualizations, sports, and using AI to advance social goods.
 
 🤝 In my free time, I volunteer with [STEAM for Vietnam](https://www.steamforvietnam.org/) to bring free, high quality STEAM education to Vietnamese children.
 
