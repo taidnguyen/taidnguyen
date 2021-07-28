@@ -6,9 +6,9 @@
 <br></br>
 🇻🇳 I am a data scientist from Ho Chi Minh City, Vietnam.
 
-💡 I am interested in machine learning, NLP, Python, open-source, and how to use AI to advance social goods. I also appreciate beautiful and effective data visualizations.
+💻 I am interested in machine learning, NLP, Python, open-source, and how to use AI to advance social goods. I also appreciate beautiful and effective data visualizations.
 
-🤝 In my free time, I volunteer with [STEAM for Vietnam](https://www.steamforvietnam.org/) to bring free, high quality STEAM education to Vietnamese children.
+📖 In my free time, I volunteer with [STEAM for Vietnam](https://www.steamforvietnam.org/) to bring free, high quality STEAM education to Vietnamese children.
 
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
