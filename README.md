@@ -4,7 +4,8 @@
 <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=taidnguyen.README.md" /></a>
 </p> -->
 <br></br>
-🇻🇳 I am a data scientist from Ho Chi Minh City, Vietnam.
+
+🇻🇳 From Ho Chi Minh City, Vietnam.
 
 💻 I am interested in machine learning, NLP, Python, open-source, and how to use AI to advance social goods. I also appreciate beautiful and effective data visualizations.
 
