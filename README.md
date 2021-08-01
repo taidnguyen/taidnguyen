@@ -7,7 +7,12 @@
 
 🇻🇳 From Ho Chi Minh City, Vietnam
 
-💻 I am interested in machine learning, NLP, Python, open-source, and how to use AI to advance social goods. I also appreciate meaningful data visualizations.
+
+💻 I'm interested in machine learning, NLP, Python, and open-source. I always look for ways to applying these domains, especially to advance social goods.
+
+
+🐳 Some technologies I am currently learning are Transformers, Docker, and Airflow.
+
 
 📖 In my free time, I volunteer with [STEAM for Vietnam](https://www.steamforvietnam.org/) to bring free, high quality STEAM education to Vietnamese children.
 
