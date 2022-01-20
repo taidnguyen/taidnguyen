@@ -7,13 +7,7 @@
 
 🇻🇳&nbsp;From Saigon, Vietnam
 
-💻&nbsp;I am interested in machine learning, NLP, Python, and open-source. I want to apply these domains to advance social goods.
-
-
-🐳&nbsp;Technologies I'm currently learning are Transformers, Docker, and Airflow.
-
-
-📖&nbsp;In my free time, I volunteer with [STEAM for Vietnam](https://www.steamforvietnam.org/) to bring free, high quality STEAM education to Vietnamese children.
+💻&nbsp;I am interested in NLP, Python, sports, and open-source.
 
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
