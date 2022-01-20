@@ -7,7 +7,7 @@
 
 🇻🇳&nbsp;From Saigon, Vietnam
 
-💻&nbsp;I am interested in NLP, Python, sports, and open-source.
+💻&nbsp;I am interested in NLP, Python, sports, and open-source
 
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
