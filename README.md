@@ -9,7 +9,7 @@
 
 💻&nbsp;I am interested in NLP research, Python, open-source, and sports
 
-🏠&nbsp;taidnguyen.github.io
+🏠&nbsp;[taidnguyen.github.io](https://taidnguyen.github.io)
 
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
