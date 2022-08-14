@@ -7,7 +7,9 @@
 
 🇻🇳&nbsp;From Saigon, Vietnam
 
-💻&nbsp;I am interested in NLP, Python, sports, and open-source
+💻&nbsp;I am interested in NLP research, Python, open-source, and sports
+
+🏠&nbsp;http://taidnguyen.github.io
 
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
